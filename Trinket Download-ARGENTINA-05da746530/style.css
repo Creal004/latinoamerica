@@ -1,0 +1,27 @@
+body {
+  background-color: DeepSkyBlue;
+  font-family: "Helvetica", sans-serif;
+  color: Purple;
+}
+h1 {
+  color: PaleTurquoise;
+  font-family: "Times New Roman", serif;
+}
+h2 {
+  font-family: "Times New Roman", serif;
+}
+h3 {
+  font-style: italic;
+}
+a {
+  color: Navy;
+}
+nav ul {
+  background-color: tomato;
+}
+nav ul li {
+  list-style-type: none;
+  display: inline;
+  margin-right: 10px;
+  margin-left: 10px;
+}
